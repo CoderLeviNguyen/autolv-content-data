@@ -79,19 +79,23 @@
   "delivery": {
     "mode": "schedule_only",
     "timezone": "Asia/Ho_Chi_Minh",
-    "state": "proposed",
+    "state": "scheduled_verified",
     "requires_backend_authorization": true,
     "media_schedules": {
       "image": {
         "due_at": "2026-10-12T13:00:00+07:00",
-        "status": "proposed"
+        "status": "scheduled_verified",
+        "post_id": 1770,
+        "verified_at": "2026-10-12"
       },
       "video": {
         "due_at": "2026-10-24T06:00:00+07:00",
-        "status": "proposed"
+        "status": "scheduled_verified",
+        "post_id": 1771,
+        "verified_at": "2026-10-12"
       }
     },
-    "revalidate_before_schedule": true
+    "revalidate_before_schedule": false
   },
   "source": {
     "url": null,
