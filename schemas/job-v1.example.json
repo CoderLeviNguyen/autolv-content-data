@@ -24,12 +24,31 @@
   "targets": [],
   "delivery": {
     "mode": "schedule_only",
-    "due_at": null,
-    "timezone": "Asia/Ho_Chi_Minh"
+    "timezone": "Asia/Ho_Chi_Minh",
+    "state": "draft",
+    "media_schedules": {
+      "image": {
+        "due_at": null,
+        "status": "not_ready"
+      },
+      "video": {
+        "due_at": null,
+        "status": "not_ready"
+      }
+    },
+    "revalidate_before_schedule": true
   },
   "source": {
     "url": null
   },
   "approved_at": null,
-  "payload_sha256": null
+  "payload_sha256": null,
+  "caption_variants": {
+    "image": "Example image caption",
+    "video": "Example video caption"
+  },
+  "receipts": {
+    "image": null,
+    "video": null
+  }
 }
