@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "job_id": "example-001",
+  "revision": 1,
+  "profile_id": "HL",
+  "content_id": null,
+  "title": "Example only - not approved",
+  "media_mode": "BOTH",
+  "status": "draft",
+  "captions": {
+    "facebook": "Example Facebook caption",
+    "instagram": "Example Instagram caption"
+  },
+  "media": {
+    "image": {
+      "url": null,
+      "aspect_ratio": "4:5"
+    },
+    "video": {
+      "url": null,
+      "aspect_ratio": "9:16"
+    }
+  },
+  "targets": [],
+  "delivery": {
+    "mode": "schedule_only",
+    "due_at": null,
+    "timezone": "Asia/Ho_Chi_Minh"
+  },
+  "source": {
+    "url": null
+  },
+  "approved_at": null,
+  "payload_sha256": null
+}
