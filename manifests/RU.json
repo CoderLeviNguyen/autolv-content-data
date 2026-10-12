@@ -7,6 +7,12 @@
       "job_id": "ru-cnt-vatz8jmcbnzj",
       "revision": 1,
       "status": "approved"
+    },
+    {
+      "path": "jobs/RU/ru-dumbbell-arm-b04-r1.json",
+      "job_id": "ru-dumbbell-arm-b04",
+      "revision": 1,
+      "status": "approved"
     }
   ]
 }
