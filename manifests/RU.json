@@ -1,0 +1,12 @@
+{
+  "schema_version": "1.0",
+  "profile_id": "RU",
+  "jobs": [
+    {
+      "path": "jobs/RU/ru-cnt-vatz8jmcbnzj-r1.json",
+      "job_id": "ru-cnt-vatz8jmcbnzj",
+      "revision": 1,
+      "status": "approved"
+    }
+  ]
+}
