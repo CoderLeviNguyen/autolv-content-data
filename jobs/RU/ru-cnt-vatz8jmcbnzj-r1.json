@@ -31,45 +31,71 @@
       "destination_alias": "ru_facebook",
       "platform": "facebook",
       "media_kind": "image",
-      "caption_variant": "image"
+      "caption_variant": "image",
+      "due_at": "2026-10-12T11:00:00+07:00",
+      "timezone": "Asia/Ho_Chi_Minh"
     },
     {
       "destination_alias": "ru_instagram",
       "platform": "instagram",
       "media_kind": "image",
-      "caption_variant": "image"
+      "caption_variant": "image",
+      "due_at": "2026-10-12T11:00:00+07:00",
+      "timezone": "Asia/Ho_Chi_Minh"
     },
     {
       "destination_alias": "ru_threads",
       "platform": "threads",
       "media_kind": "image",
-      "caption_variant": "image"
+      "caption_variant": "image",
+      "due_at": "2026-10-12T11:00:00+07:00",
+      "timezone": "Asia/Ho_Chi_Minh"
     },
     {
       "destination_alias": "ru_facebook",
       "platform": "facebook",
       "media_kind": "video",
-      "caption_variant": "video"
+      "caption_variant": "video",
+      "due_at": "2026-10-24T02:00:00+07:00",
+      "timezone": "Asia/Ho_Chi_Minh"
     },
     {
       "destination_alias": "ru_instagram",
       "platform": "instagram",
       "media_kind": "video",
-      "caption_variant": "video"
+      "caption_variant": "video",
+      "due_at": "2026-10-24T02:00:00+07:00",
+      "timezone": "Asia/Ho_Chi_Minh"
     },
     {
       "destination_alias": "ru_threads",
       "platform": "threads",
       "media_kind": "video",
-      "caption_variant": "video"
+      "caption_variant": "video",
+      "due_at": "2026-10-24T02:00:00+07:00",
+      "timezone": "Asia/Ho_Chi_Minh"
     }
   ],
   "delivery": {
     "mode": "schedule_only",
     "due_at": null,
     "timezone": "Asia/Ho_Chi_Minh",
-    "state": "exported_not_scheduled",
-    "requires_backend_authorization": true
+    "state": "exported_with_proposed_slots_not_scheduled",
+    "requires_backend_authorization": true,
+    "media_schedules": {
+      "image": {
+        "due_at": "2026-10-12T11:00:00+07:00",
+        "timezone": "Asia/Ho_Chi_Minh",
+        "status": "proposed_not_scheduled"
+      },
+      "video": {
+        "due_at": "2026-10-24T02:00:00+07:00",
+        "timezone": "Asia/Ho_Chi_Minh",
+        "status": "proposed_not_scheduled"
+      }
+    },
+    "slot_source": "LIVE AutoLV pending queue, checked 2026-10-12 10:41 Asia/Ho_Chi_Minh",
+    "revalidate_before_schedule": true
   },
   "source": {
     "url": null,
