@@ -1,0 +1,80 @@
+{
+  "schema_version": "1.0",
+  "job_id": "ru-cnt-vatz8jmcbnzj",
+  "revision": 1,
+  "profile_id": "RU",
+  "content_id": "CNT-VATZ8JMCBNZJ",
+  "title": "Dumbbell-Only Shoulders: Five Exercises",
+  "media_mode": "BOTH",
+  "status": "approved",
+  "captions": {
+    "facebook": "💪 5 DUMBBELL SHOULDER EXERCISES\n\nWant to train your shoulders with just a pair of dumbbells? Here's a simple exercise guide to explore:\n\n🔴 1. Shoulder Press — Front delts\n🔴 2. Lateral Raise — Side delts\n🔴 3. Front Raise — Front delts (optional)\n🔴 4. Reverse Fly — Rear delts and upper back\n🔴 5. Upright Row — Optional shoulder variation\n\n✅ Start with manageable weights.\n✅ Keep every rep controlled.\n✅ Train within a comfortable range of motion.\n✅ Choose exercises that match your ability and goals.\n\nYou don't need every movement in one workout. Focus on quality and consistency!\n\n❤️ Like • 🔁 Share • ➕ Follow RepUp for more workout guides.\n\n#ShoulderWorkout #DumbbellWorkout #StrengthTraining #FitnessTips #RepUp",
+    "instagram": "💪 5 DUMBBELL SHOULDER EXERCISES\n\nWant to train your shoulders with just a pair of dumbbells? Here's a simple exercise guide to explore:\n\n🔴 1. Shoulder Press — Front delts\n🔴 2. Lateral Raise — Side delts\n🔴 3. Front Raise — Front delts (optional)\n🔴 4. Reverse Fly — Rear delts and upper back\n🔴 5. Upright Row — Optional shoulder variation\n\n✅ Start with manageable weights.\n✅ Keep every rep controlled.\n✅ Train within a comfortable range of motion.\n✅ Choose exercises that match your ability and goals.\n\nYou don't need every movement in one workout. Focus on quality and consistency!\n\n❤️ Like • 🔁 Share • ➕ Follow RepUp for more workout guides.\n\n#ShoulderWorkout #DumbbellWorkout #StrengthTraining #FitnessTips #RepUp",
+    "threads": "💪 5 DUMBBELL SHOULDER EXERCISES\n\nWant to train your shoulders with just a pair of dumbbells? Here's a simple exercise guide to explore:\n\n🔴 1. Shoulder Press — Front delts\n🔴 2. Lateral Raise — Side delts\n🔴 3. Front Raise — Front delts (optional)\n🔴 4. Reverse Fly — Rear delts and upper back\n🔴 5. Upright Row — Optional shoulder variation\n\n✅ Start with manageable weights.\n✅ Keep every rep controlled.\n✅ Train within a comfortable range of motion.\n✅ Choose exercises that match your ability and goals.\n\nYou don't need every movement in one workout. Focus on quality and consistency!\n\n❤️ Like • 🔁 Share • ➕ Follow RepUp for more workout guides.\n\n#ShoulderWorkout #DumbbellWorkout #StrengthTraining #FitnessTips #RepUp"
+  },
+  "caption_variants": {
+    "image": "💪 5 DUMBBELL SHOULDER EXERCISES\n\nWant to train your shoulders with just a pair of dumbbells? Here's a simple exercise guide to explore:\n\n🔴 1. Shoulder Press — Front delts\n🔴 2. Lateral Raise — Side delts\n🔴 3. Front Raise — Front delts (optional)\n🔴 4. Reverse Fly — Rear delts and upper back\n🔴 5. Upright Row — Optional shoulder variation\n\n✅ Start with manageable weights.\n✅ Keep every rep controlled.\n✅ Train within a comfortable range of motion.\n✅ Choose exercises that match your ability and goals.\n\nYou don't need every movement in one workout. Focus on quality and consistency!\n\n❤️ Like • 🔁 Share • ➕ Follow RepUp for more workout guides.\n\n#ShoulderWorkout #DumbbellWorkout #StrengthTraining #FitnessTips #RepUp",
+    "video": "🔥 BUILD YOUR SHOULDER WORKOUT WITH DUMBBELLS!\n\n5 moves to know:\n\n1️⃣ Shoulder Press\n2️⃣ Lateral Raise\n3️⃣ Front Raise\n4️⃣ Reverse Fly\n5️⃣ Upright Row\n\n💡 Presses emphasize the front delts, lateral raises target the side delts, and reverse flies help train the rear delts.\n\nFront raises and upright rows are optional additions—not must-do exercises.\n\n🎯 Pick the movements that work for you, use controlled reps, and progress gradually.\n\n❤️ Like this workout!\n🔁 Share it with a training partner.\n💪 Follow RepUp for more exercise guides.\n\n#ShoulderTraining #DumbbellExercises #GymWorkout #WorkoutMotivation #RepUp"
+  },
+  "media": {
+    "image": {
+      "url": "https://auto.levinguyen.com/wp-content/uploads/wp-buffer-manager-media/user-1/image-2207a3b4-1cc4-4d21-84e8-643a4c57b2c3.png",
+      "aspect_ratio": "4:5"
+    },
+    "video": {
+      "url": "https://auto.levinguyen.com/wp-content/uploads/wp-buffer-manager-media/user-1/Copy-of-Copy-of-22450-9-10dce171-7ffd-4c98-a7df-806ea050f552.mp4",
+      "aspect_ratio": "9:16"
+    }
+  },
+  "targets": [
+    {
+      "destination_alias": "ru_facebook",
+      "platform": "facebook",
+      "media_kind": "image",
+      "caption_variant": "image"
+    },
+    {
+      "destination_alias": "ru_instagram",
+      "platform": "instagram",
+      "media_kind": "image",
+      "caption_variant": "image"
+    },
+    {
+      "destination_alias": "ru_threads",
+      "platform": "threads",
+      "media_kind": "image",
+      "caption_variant": "image"
+    },
+    {
+      "destination_alias": "ru_facebook",
+      "platform": "facebook",
+      "media_kind": "video",
+      "caption_variant": "video"
+    },
+    {
+      "destination_alias": "ru_instagram",
+      "platform": "instagram",
+      "media_kind": "video",
+      "caption_variant": "video"
+    },
+    {
+      "destination_alias": "ru_threads",
+      "platform": "threads",
+      "media_kind": "video",
+      "caption_variant": "video"
+    }
+  ],
+  "delivery": {
+    "mode": "schedule_only",
+    "due_at": null,
+    "timezone": "Asia/Ho_Chi_Minh",
+    "state": "exported_not_scheduled",
+    "requires_backend_authorization": true
+  },
+  "source": {
+    "url": null,
+    "description": "User supplied workout infographic item 1/10"
+  },
+  "approved_at": "2026-10-12",
+  "payload_sha256": null
+}
