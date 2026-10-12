@@ -1,0 +1,106 @@
+{
+  "schema_version": "1.0",
+  "job_id": "ru-dumbbell-arm-b04",
+  "revision": 1,
+  "profile_id": "RU",
+  "content_id": null,
+  "title": "5 Dumbbell Arm Exercises — Bài 4/10",
+  "media_mode": "BOTH",
+  "status": "approved",
+  "captions": {
+    "facebook": "💪 5 DUMBBELL ARM EXERCISES\n\nWant more variety in your arm workouts? Try these five dumbbell movements:\n\n1️⃣ Biceps Curl — Biceps\n2️⃣ Hammer Curl — Brachialis, brachioradialis & biceps\n3️⃣ Concentration Curl — Biceps\n4️⃣ Overhead Triceps Extension — Triceps\n5️⃣ Lying Triceps Extension — Triceps\n\n✅ Keep your wrists steady.\n✅ Avoid swinging the weights.\n✅ Choose loads you can control.\n✅ Move through a comfortable range of motion.\n\nYou don't need to perform all five exercises in one session. Choose movements that suit your goals and ability.\n\n❤️ Like this guide.\n🔁 Share it with your workout partner.\n➕ Follow RepUp for more strength-training ideas!\n\n#ArmWorkout #DumbbellWorkout #BicepsTraining #TricepsTraining #RepUp",
+    "instagram": "💪 5 DUMBBELL ARM EXERCISES\n\nWant more variety in your arm workouts? Try these five dumbbell movements:\n\n1️⃣ Biceps Curl — Biceps\n2️⃣ Hammer Curl — Brachialis, brachioradialis & biceps\n3️⃣ Concentration Curl — Biceps\n4️⃣ Overhead Triceps Extension — Triceps\n5️⃣ Lying Triceps Extension — Triceps\n\n✅ Keep your wrists steady.\n✅ Avoid swinging the weights.\n✅ Choose loads you can control.\n✅ Move through a comfortable range of motion.\n\nYou don't need to perform all five exercises in one session. Choose movements that suit your goals and ability.\n\n❤️ Like this guide.\n🔁 Share it with your workout partner.\n➕ Follow RepUp for more strength-training ideas!\n\n#ArmWorkout #DumbbellWorkout #BicepsTraining #TricepsTraining #RepUp",
+    "threads": "💪 5 DUMBBELL ARM EXERCISES\n\nWant more variety in your arm workouts? Try these five dumbbell movements:\n\n1️⃣ Biceps Curl — Biceps\n2️⃣ Hammer Curl — Brachialis, brachioradialis & biceps\n3️⃣ Concentration Curl — Biceps\n4️⃣ Overhead Triceps Extension — Triceps\n5️⃣ Lying Triceps Extension — Triceps\n\n✅ Keep your wrists steady.\n✅ Avoid swinging the weights.\n✅ Choose loads you can control.\n✅ Move through a comfortable range of motion.\n\nYou don't need to perform all five exercises in one session. Choose movements that suit your goals and ability.\n\n❤️ Like this guide.\n🔁 Share it with your workout partner.\n➕ Follow RepUp for more strength-training ideas!\n\n#ArmWorkout #DumbbellWorkout #BicepsTraining #TricepsTraining #RepUp"
+  },
+  "caption_variants": {
+    "image": "💪 5 DUMBBELL ARM EXERCISES\n\nWant more variety in your arm workouts? Try these five dumbbell movements:\n\n1️⃣ Biceps Curl — Biceps\n2️⃣ Hammer Curl — Brachialis, brachioradialis & biceps\n3️⃣ Concentration Curl — Biceps\n4️⃣ Overhead Triceps Extension — Triceps\n5️⃣ Lying Triceps Extension — Triceps\n\n✅ Keep your wrists steady.\n✅ Avoid swinging the weights.\n✅ Choose loads you can control.\n✅ Move through a comfortable range of motion.\n\nYou don't need to perform all five exercises in one session. Choose movements that suit your goals and ability.\n\n❤️ Like this guide.\n🔁 Share it with your workout partner.\n➕ Follow RepUp for more strength-training ideas!\n\n#ArmWorkout #DumbbellWorkout #BicepsTraining #TricepsTraining #RepUp",
+    "video": "🔥 5 DUMBBELL ARM MOVES TO KNOW!\n\nTraining your arms with dumbbells? Save this quick exercise guide!\n\n💥 Biceps Curl — Biceps\n💥 Hammer Curl — Biceps & forearm flexors\n💥 Concentration Curl — Biceps\n💥 Overhead Triceps Extension — Triceps\n💥 Lying Triceps Extension — Triceps\n\n🎯 Keep your elbows controlled, avoid jerking the weights, and use a comfortable range of motion.\n\nThese are exercise options, not a required five-move routine. Choose what fits your training plan.\n\n❤️ Like • 🔁 Share • ➕ Follow RepUp!\n\n#DumbbellExercises #ArmTraining #StrengthWorkout #FitnessTips #RepUp"
+  },
+  "media": {
+    "image": {
+      "url": "https://auto.levinguyen.com/wp-content/uploads/wp-buffer-manager-media/user-1/image-6c38b6d5-6840-4d8d-83ee-8cb607b43388.png",
+      "aspect_ratio": "4:5"
+    },
+    "video": {
+      "url": "https://auto.levinguyen.com/wp-content/uploads/wp-buffer-manager-media/user-1/Copy-of-Copy-of-22450-11-342bb042-df6f-4fae-8d1a-c3e98c1a03a3.mp4",
+      "aspect_ratio": "9:16"
+    }
+  },
+  "targets": [
+    {
+      "destination_alias": "ru_facebook",
+      "platform": "facebook",
+      "media_kind": "image",
+      "caption_variant": "image",
+      "due_at": "2026-10-12T13:00:00+07:00",
+      "timezone": "Asia/Ho_Chi_Minh"
+    },
+    {
+      "destination_alias": "ru_facebook",
+      "platform": "facebook",
+      "media_kind": "video",
+      "caption_variant": "video",
+      "due_at": "2026-10-24T06:00:00+07:00",
+      "timezone": "Asia/Ho_Chi_Minh"
+    },
+    {
+      "destination_alias": "ru_instagram",
+      "platform": "instagram",
+      "media_kind": "image",
+      "caption_variant": "image",
+      "due_at": "2026-10-12T13:00:00+07:00",
+      "timezone": "Asia/Ho_Chi_Minh"
+    },
+    {
+      "destination_alias": "ru_instagram",
+      "platform": "instagram",
+      "media_kind": "video",
+      "caption_variant": "video",
+      "due_at": "2026-10-24T06:00:00+07:00",
+      "timezone": "Asia/Ho_Chi_Minh"
+    },
+    {
+      "destination_alias": "ru_threads",
+      "platform": "threads",
+      "media_kind": "image",
+      "caption_variant": "image",
+      "due_at": "2026-10-12T13:00:00+07:00",
+      "timezone": "Asia/Ho_Chi_Minh"
+    },
+    {
+      "destination_alias": "ru_threads",
+      "platform": "threads",
+      "media_kind": "video",
+      "caption_variant": "video",
+      "due_at": "2026-10-24T06:00:00+07:00",
+      "timezone": "Asia/Ho_Chi_Minh"
+    }
+  ],
+  "delivery": {
+    "mode": "schedule_only",
+    "timezone": "Asia/Ho_Chi_Minh",
+    "state": "proposed",
+    "requires_backend_authorization": true,
+    "media_schedules": {
+      "image": {
+        "due_at": "2026-10-12T13:00:00+07:00",
+        "status": "proposed"
+      },
+      "video": {
+        "due_at": "2026-10-24T06:00:00+07:00",
+        "status": "proposed"
+      }
+    },
+    "revalidate_before_schedule": true
+  },
+  "source": {
+    "url": null,
+    "description": "RU Bài 4/10, user manually confirmed both media URLs accessible"
+  },
+  "media_verification": {
+    "method": "user_manual_confirmation",
+    "http_independent_check": "not_verified"
+  },
+  "approved_at": "2026-10-12",
+  "payload_sha256": null
+}
